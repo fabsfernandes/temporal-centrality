@@ -2,5 +2,7 @@
 Gephi plugin for temporal node centrality computation
 
 Centralities available:
-Temporal Betweenness
-Temporal Closeness
+
+- Temporal Betweenness
+
+- Temporal Closeness
